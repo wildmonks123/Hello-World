@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+**/build/
+**/.gradle/
+
+# Android Studio / IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+.DS_Store
+
+# Android Build Output
+app/build/
+captures/
+*.hprof
+*.log
+*.lock
+local.properties
+.navigation/
+*.snapshot
+*.avd/
+*.ini
+google-services.json
+com_crashlytics_export_strings.xml
+*.jks
+*.keystore
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+
+# Repo-level Gradle cache (if any)
+/.gradle/
