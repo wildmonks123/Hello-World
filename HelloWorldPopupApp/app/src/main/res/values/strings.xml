@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">HelloWorldPopupApp</string>
     <string name="button_text">Press Me</string>
-    <string name="popup_message">Hello World</string>
+    <string name="popup_message"><![CDATA[<font color="#FFC0CB">Hello World!</font>]]></string>
     <string name="popup_title">Greetings</string>
     <string name="ok_button_text">OK</string>
 </resources>
